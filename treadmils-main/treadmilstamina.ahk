@@ -1,4 +1,4 @@
-;Written by jash2260 on discord﻿
+;Written by Zerr
 SetTimer, OpenScript, 10 
 ScriptActive := False 
 StartMouseX := 0 
@@ -109,6 +109,7 @@ if (ScriptActive) {
         
             if (ElapsedTime >= 60000)
                 {
+					Sleep, 5000
                     Gosub ClickDura
                     break
                 }
