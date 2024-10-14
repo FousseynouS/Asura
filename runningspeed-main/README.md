@@ -1,13 +1,13 @@
 
 
 <div align="center">
-<h1>AsuraPullUps</h1>
+<h1>AsuraRunningSpeed</h1>
 <br>
 An Open-Source macro for Asura<br>
 Mainly for Pull Ups as of now but will add other features as well<br>
 ALL FOR FREE!<br>
-My Discord is jash2260 dm if you need help<br>
-Video Instruction: https://youtu.be/35pktsCUpk4?si=gsRZwqg0zNdoptom<br>
+My Discord is xxxx dm if you need help<br>
+Video Instruction: xxxx<br>
 <br>
   To download the file just click the Green button that says CODE<br>
   Download the zip file and unzip the file<br>
@@ -26,7 +26,6 @@ This Macro is suited for all resolutions(maybe)<br>
   DO NOT USE MICROSOFT STORE ROBLOX <br>
 <br>
 <br>
-Jash's Macro Software
 
 This software is freely distributed under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2.0 of the License, or (at your option) any later version.
 
